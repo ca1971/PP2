@@ -1,0 +1,17 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+Backup/
+test-output/
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
